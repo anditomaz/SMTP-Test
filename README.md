@@ -48,7 +48,7 @@ Este projeto é uma aplicação desktop desenvolvida em Python com PyQt5 para en
 2. Execute o script principal usando o Python (no Prompt de Comando, PowerShell ou terminal):
 
     ```powershell
-    python seu_script.py
+    python Principal.py
     ```
 
 3. Configure as credenciais SMTP e OAuth2 nas janelas de configuração acessíveis pelo menu **Configurações**.
